@@ -73,6 +73,8 @@ More advanced users might want to install VSCode using the built-in `apt` packag
 
    - Open the **Downloads** folder
    - Double click the file **VSCode-darwin-universal.zip** 
+   (In some cases this will not be a compressed .zip file, but the .app itself.)
+   
    - Drag the **Visual Studio Code.app** icon to the **Applications** folder icon
 
 #### Step 3: Delete the installer file
